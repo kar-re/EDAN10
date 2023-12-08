@@ -2,7 +2,7 @@ package tree;
 
 /**
  * This is a node in a binary search tree. The node holds an integer value.
- *
+ * Kaspian Edit :-D
  * @author Torbjorn Ekman
  * @see MyTree
  */
