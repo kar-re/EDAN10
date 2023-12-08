@@ -13,7 +13,7 @@ public class MyNode {
   private int value;
 
   /**
-   * Class constructor initializing this node's value.
+   * Class constructor initializing this node's value.   aaaa
    * 
    * @param value The value of this node.
    */
