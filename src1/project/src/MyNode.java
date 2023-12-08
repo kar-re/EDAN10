@@ -4,6 +4,8 @@ package tree;
  * This is a node in a binary search tree. The node holds an integer value.
  * 
  * @author Torbjorn Ekman Kaspian
+ * Kaspian Edit :-D 111
+ * @author Torbjorn Ekman
  * @see MyTree
  */
 public class MyNode {
@@ -13,7 +15,7 @@ public class MyNode {
   private int value;
 
   /**
-   * Class constructor initializing this node's value.
+   * Class constructor initializing this node's value.   aaaa
    * 
    * @param value The value of this node.
    */

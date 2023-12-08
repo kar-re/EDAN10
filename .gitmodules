@@ -1,0 +1,3 @@
+[submodule "EDAN10"]
+	path = EDAN10
+	url = https://github.com/kar-re/EDAN10.git
