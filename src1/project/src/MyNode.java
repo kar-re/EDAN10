@@ -2,8 +2,8 @@ package tree;
 
 /**
  * This is a node in a binary search tree. The node holds an integer value.
- *
- * @author Torbjorn Ekman
+ * 
+ * @author Torbjorn Ekman Kaspian
  * @see MyTree
  */
 public class MyNode {
